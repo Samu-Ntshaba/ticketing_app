@@ -1,0 +1,19 @@
+.message-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.message-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.message-container p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #555;
+}
